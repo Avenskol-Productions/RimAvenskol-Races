@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <packageId>AvenskolProductions.RimAvenskolRaces</packageId>
+  <packageId>AvenskolProductions.RimAvenskol.Races</packageId>
   <author>Avenskol Official</author>
 <supportedVersions>
   	<li>1.6</li>
@@ -11,6 +11,7 @@
     <li>Ludeon.RimWorld.Royalty</li>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
 	<li>RimVali.Rewritten.Core</li>
+    <li>AvenskolProductions.RimAvenskol.Biota</li>
   </forceLoadAfter>
   <modDependencies>
 	<li>
