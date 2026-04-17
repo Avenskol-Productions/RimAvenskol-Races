@@ -24,7 +24,7 @@
 		<packageId>RimVali.Rewritten.Core</packageId>
 		<displayName>Vine</displayName>
 		<steamWorkshopUrl>steam://url/CommunityFilePage/2936412063</steamWorkshopUrl>
-		<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		<downloadUrl>https://github.com/RecompiledBirds/RimValiCore-RW</downloadUrl>
 	</li>
   </modDependencies>
 </ModMetaData>
